@@ -3,6 +3,3 @@ i am git
 Hello World?
 
 open test file
-
-git!
-nice to meet you. 
